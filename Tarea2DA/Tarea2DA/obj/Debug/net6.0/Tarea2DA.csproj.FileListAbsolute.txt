@@ -1,0 +1,14 @@
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\bin\Debug\net6.0\Tarea2DA.exe
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\bin\Debug\net6.0\Tarea2DA.deps.json
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\bin\Debug\net6.0\Tarea2DA.runtimeconfig.json
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\bin\Debug\net6.0\Tarea2DA.dll
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\bin\Debug\net6.0\Tarea2DA.pdb
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\Tarea2DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\Tarea2DA.AssemblyInfoInputs.cache
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\Tarea2DA.AssemblyInfo.cs
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\Tarea2DA.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\Tarea2DA.dll
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\refint\Tarea2DA.dll
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\Tarea2DA.pdb
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\Tarea2DA.genruntimeconfig.cache
+C:\Users\EQUIPO 201\source\repos\Tarea2DA\Tarea2DA\obj\Debug\net6.0\ref\Tarea2DA.dll
